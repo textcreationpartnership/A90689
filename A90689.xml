@@ -142,13 +142,20 @@ Printed for <hi>Timothy Garthwait,</hi> at the Little
 North-Door in St. <hi>Paul's</hi> Church-Yard.
 <hi>M D C L X.</hi>
             </p>
-            <figure>
-               <head>DIEV ET MON DROIT</head>
-               <head>
-                  <g ref="char:cross">✚</g> HONI <g ref="char:cross">✚</g> SOIT <g ref="char:cross">✚</g> QVI <g ref="char:cross">✚</g> MAL <g ref="char:cross">✚</g> Y <g ref="char:cross">✚</g> PENSE <g ref="char:cross">✚</g>
-               </head>
-               <figDesc>royal blazon or coat of arms</figDesc>
-            </figure>
+            <p>
+               <pb facs="tcp:115426:2"/>
+               <figure>
+                  <head>DIEV ET MON DROIT</head>
+                  <head>
+                     <g ref="char:cross">✚</g> HONI <g ref="char:cross">✚</g> SOIT <g ref="char:cross">✚</g> QVI <g ref="char:cross">✚</g> MAL <g ref="char:cross">✚</g> Y <g ref="char:cross">✚</g> PENSE <g ref="char:cross">✚</g>
+                  </head>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+               <pb facs="tcp:115426:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </p>
          </div>
          <div type="to_the_reader">
             <pb facs="tcp:115426:3"/>
